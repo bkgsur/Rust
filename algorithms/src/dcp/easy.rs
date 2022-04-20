@@ -1,6 +1,10 @@
+//Aug 9, 2020
+use crate::search::binarysearch;
+
 pub fn cansum(arr: &mut[i32], target: i32) -> bool
 {
    arr.sort();
+   
     let mut l=0;
     let mut r = arr.len()-1;
     while l<r
