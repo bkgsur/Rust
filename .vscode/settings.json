@@ -1,0 +1,4 @@
+{
+    "lldb.launch.stdio": null,
+    "debug.allowBreakpointsEverywhere": true
+}

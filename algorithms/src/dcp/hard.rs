@@ -91,3 +91,10 @@ mod tests
         assert_eq!(productallbutindex(&mut [1, 2, 3, 4, 5]), &[120, 60, 40, 30, 24]);
     }
 }
+
+//August 14
+
+pub fn Xor_linkedlist()
+{
+
+}
